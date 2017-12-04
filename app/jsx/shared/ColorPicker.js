@@ -30,7 +30,7 @@ import classnames from 'classnames'
 import 'compiled/jquery.rails_flash_notifications'
 
   var PREDEFINED_COLORS = [
-    {hexcode: '#EF4437', name: I18n.t('Red')},
+    {hexcode: '#E60028', name: I18n.t('Red')},
     {hexcode: '#E71F63', name: I18n.t('Pink')},
     {hexcode: '#8F3E97', name: I18n.t('Purple')},
     {hexcode: '#65499D', name: I18n.t('Deep Purple')},
